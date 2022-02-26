@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromiglou&theme=react&layout=compact&langs_count=6" />
 </a>
 
+<img height="189" style="margin-left:5px;" src="https://github-profile-trophy.vercel.app/?username=pedromiglou&theme=dracula&margin-w=5&margin-h=5&row=2&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" />
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <a href="https://www.linkedin.com/in/p-amaral/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
