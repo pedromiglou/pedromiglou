@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 - :thumbsup:&nbsp; Passionate about Programming and Artificial Intelligence.
 - 🎓  Studying Robotics and Intelligent Systems at the University of Aveiro.
 
+<!--
 <h3> :bar_chart: &nbsp;Stats </h3>
 <a href="https://github.com/pedromiglou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromiglou&theme=react&show_icons=true&count_private=True" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromiglou&theme=react&layout=compact&langs_count=6" />
-</a>
+</a>-->
 
 <img height="163" style="margin-left:5px;" src="https://github-profile-trophy.vercel.app/?username=pedromiglou&theme=dracula&margin-w=5&margin-h=5&row=2&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" />
 
