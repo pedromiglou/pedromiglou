@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2> Hello World! I am Pedro Amaral 👋 </h2>
 
 - :thumbsup:&nbsp; Passionate about Programming and Artificial Intelligence.
-- 🎓  Master in Robotics and Intelligent Systems | University of Aveiro.
+- 🎓  Master in Robotics and Intelligent Systems by the University of Aveiro.
 
 <h3> :bar_chart: &nbsp;Stats </h3>
 <a href="https://github.com/pedromiglou">
