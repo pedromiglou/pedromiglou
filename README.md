@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2> Hello World! I am Pedro Amaral 👋 </h2>
 
-- :thumbsup:&nbsp; Interested in DevOps, Artificial Intelligence and Robotics.
+- :thumbsup:&nbsp; Interested in DevOps, Machine Learning Engineering and Backend Development.
 - 🎓  Master in Robotics and Intelligent Systems by the University of Aveiro.
 
 <h3> :bar_chart: &nbsp;Stats </h3>
