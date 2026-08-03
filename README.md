@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ☕ Powered by Coffee
 
 <p>
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=pedromiglou&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight&card_width=502em&count_private=True" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=pedromiglou&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight&card_width=505em&count_private=True" />
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=pedromiglou&layout=compact&langs_count=8&hide_values=true&theme=tokyonight&hide=TeX,CSS,HTML,CMake&card_width=490em&count_private=True" />
 </p>
