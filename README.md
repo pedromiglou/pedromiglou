@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3> :bar_chart: &nbsp;Stats </h3>
 <a href="https://github.com/pedromiglou">
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromiglou&theme=react&show_icons=true&count_private=True" />-->
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pedromiglou&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=pedromiglou&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight)
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=pedromiglou&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromiglou&theme=react&layout=compact&langs_count=6&hide=TeX,CSS" />
 </a>
 
